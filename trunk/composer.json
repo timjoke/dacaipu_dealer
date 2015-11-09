@@ -1,0 +1,13 @@
+{
+    "name": "vendor/dacaipu",
+    "description": "项目dacaipu的描述。",
+    "authors": [
+        {
+            "name": "roy",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+
+    }
+}
